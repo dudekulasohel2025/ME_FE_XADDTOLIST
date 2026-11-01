@@ -1,6 +1,6 @@
 describe("Add To List App", () => {
   beforeEach(() => {
-    cy.visit("http://localhost:5173"); // change to your app URL
+    cy.visit("https://me-fe-xaddtolist.vercel.app/"); // change to your app URL
   });
 
   it("should render Title, input and button in UI", () => {

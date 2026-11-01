@@ -1,0 +1,4 @@
+{
+    "Test Case 1: Add To List App - should render Title, input and button in UI": "TEST_STATUS_SUCCESS",
+    "Test Case 2: Add To List App - should add item to list successfully": "TEST_STATUS_SUCCESS"
+}
